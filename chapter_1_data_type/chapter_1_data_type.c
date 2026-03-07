@@ -14,3 +14,4 @@ int main(){
 variables are the name of the memory location which stores some data 
 */
 // in this you you give input as your age 
+// scanf is acts as a input variable and & acts as a address in which you have to put that value 
